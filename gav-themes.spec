@@ -1,5 +1,5 @@
 Summary:	Additional themes for GAV
-Summary(pl):	Dodatkowe motywy dla GAV
+Summary(pl.UTF-8):   Dodatkowe motywy dla GAV
 Name:		gav-themes
 Version:	0.7.3
 Release:	1
@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Additional themes for GAV.
 
-%description -l pl
+%description -l pl.UTF-8
 Dodatkowe motywy dla GAV.
 
 %prep
