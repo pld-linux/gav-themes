@@ -1,5 +1,5 @@
 Summary:	Additional themes for GAV
-Summary(pl.UTF-8):   Dodatkowe motywy dla GAV
+Summary(pl.UTF-8):	Dodatkowe motywy dla GAV
 Name:		gav-themes
 Version:	0.7.3
 Release:	1
